@@ -11,6 +11,8 @@ AppPad is a Launchpad alternative for macOS 2.6, designed to help users rediscov
 <img src="apppad-setting.png" alt="Preferences" style="zoom:80%;" />
 
 ## video-demo
+https://github.com/user-attachments/assets/a3e04c60-6c83-4595-a877-0b376a9480ac
+
 
 
 
