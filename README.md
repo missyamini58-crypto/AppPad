@@ -1,5 +1,5 @@
 ## Project introduction
-AppPad is a Launchpad alternative for macOS 2.6, designed to help users rediscover the familiar Launchpad experience.
+AppPad is a Launchpad alternative for macOS 26, designed to help users rediscover the familiar Launchpad experience.
 
 ## Pagination
 <img src="apppad-app.png" alt="Pagination" style="zoom:80%;" />
